@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+venv/
+env/
+.env
+
+# Data (Optional: Remove these if you WANT the panel to see your CSVs on GitHub)
+# *.csv
+
+# OS generated files
+.DS_Store
+
+# Cloud Credentials (CRITICAL SECURITY)
+firebase_key.json

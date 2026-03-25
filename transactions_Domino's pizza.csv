@@ -1,0 +1,169 @@
+Date,Branch,Item_Name,Quantity
+2026-02-15,Mumbai,Margherita Pizza,150
+2026-02-15,Mumbai,Peppy Paneer Pizza,115
+2026-02-15,Mumbai,Garlic Breadsticks,185
+2026-02-15,Mumbai,Choco Lava Cake,105
+2026-02-16,Mumbai,Margherita Pizza,118
+2026-02-16,Mumbai,Peppy Paneer Pizza,82
+2026-02-16,Mumbai,Garlic Breadsticks,142
+2026-02-16,Mumbai,Choco Lava Cake,72
+2026-02-17,Mumbai,Margherita Pizza,122
+2026-02-17,Mumbai,Peppy Paneer Pizza,86
+2026-02-17,Mumbai,Garlic Breadsticks,148
+2026-02-17,Mumbai,Choco Lava Cake,76
+2026-02-18,Mumbai,Margherita Pizza,126
+2026-02-18,Mumbai,Peppy Paneer Pizza,88
+2026-02-18,Mumbai,Garlic Breadsticks,152
+2026-02-18,Mumbai,Choco Lava Cake,78
+2026-02-19,Mumbai,Margherita Pizza,124
+2026-02-19,Mumbai,Peppy Paneer Pizza,87
+2026-02-19,Mumbai,Garlic Breadsticks,150
+2026-02-19,Mumbai,Choco Lava Cake,77
+2026-02-20,Mumbai,Margherita Pizza,138
+2026-02-20,Mumbai,Peppy Paneer Pizza,100
+2026-02-20,Mumbai,Garlic Breadsticks,170
+2026-02-20,Mumbai,Choco Lava Cake,90
+2026-02-21,Mumbai,Margherita Pizza,155
+2026-02-21,Mumbai,Peppy Paneer Pizza,120
+2026-02-21,Mumbai,Garlic Breadsticks,190
+2026-02-21,Mumbai,Choco Lava Cake,110
+2026-02-22,Mumbai,Margherita Pizza,145
+2026-02-22,Mumbai,Peppy Paneer Pizza,110
+2026-02-22,Mumbai,Garlic Breadsticks,180
+2026-02-22,Mumbai,Choco Lava Cake,100
+2026-02-23,Mumbai,Margherita Pizza,115
+2026-02-23,Mumbai,Peppy Paneer Pizza,80
+2026-02-23,Mumbai,Garlic Breadsticks,140
+2026-02-23,Mumbai,Choco Lava Cake,70
+2026-02-24,Mumbai,Margherita Pizza,120
+2026-02-24,Mumbai,Peppy Paneer Pizza,85
+2026-02-24,Mumbai,Garlic Breadsticks,150
+2026-02-24,Mumbai,Choco Lava Cake,75
+2026-02-25,Mumbai,Margherita Pizza,125
+2026-02-25,Mumbai,Peppy Paneer Pizza,90
+2026-02-25,Mumbai,Garlic Breadsticks,155
+2026-02-25,Mumbai,Choco Lava Cake,80
+2026-02-26,Mumbai,Margherita Pizza,135
+2026-02-26,Mumbai,Peppy Paneer Pizza,95
+2026-02-26,Mumbai,Garlic Breadsticks,165
+2026-02-26,Mumbai,Choco Lava Cake,85
+2026-02-27,Mumbai,Margherita Pizza,140
+2026-02-27,Mumbai,Peppy Paneer Pizza,105
+2026-02-27,Mumbai,Garlic Breadsticks,175
+2026-02-27,Mumbai,Choco Lava Cake,95
+2026-02-28,Mumbai,Margherita Pizza,158
+2026-02-28,Mumbai,Peppy Paneer Pizza,122
+2026-02-28,Mumbai,Garlic Breadsticks,195
+2026-02-28,Mumbai,Choco Lava Cake,115
+2026-02-15,Delhi,Margherita Pizza,140
+2026-02-15,Delhi,Peppy Paneer Pizza,105
+2026-02-15,Delhi,Garlic Breadsticks,175
+2026-02-15,Delhi,Choco Lava Cake,95
+2026-02-16,Delhi,Margherita Pizza,112
+2026-02-16,Delhi,Peppy Paneer Pizza,78
+2026-02-16,Delhi,Garlic Breadsticks,132
+2026-02-16,Delhi,Choco Lava Cake,68
+2026-02-17,Delhi,Margherita Pizza,116
+2026-02-17,Delhi,Peppy Paneer Pizza,82
+2026-02-17,Delhi,Garlic Breadsticks,138
+2026-02-17,Delhi,Choco Lava Cake,72
+2026-02-18,Delhi,Margherita Pizza,120
+2026-02-18,Delhi,Peppy Paneer Pizza,84
+2026-02-18,Delhi,Garlic Breadsticks,142
+2026-02-18,Delhi,Choco Lava Cake,74
+2026-02-19,Delhi,Margherita Pizza,118
+2026-02-19,Delhi,Peppy Paneer Pizza,83
+2026-02-19,Delhi,Garlic Breadsticks,140
+2026-02-19,Delhi,Choco Lava Cake,73
+2026-02-20,Delhi,Margherita Pizza,132
+2026-02-20,Delhi,Peppy Paneer Pizza,95
+2026-02-20,Delhi,Garlic Breadsticks,160
+2026-02-20,Delhi,Choco Lava Cake,85
+2026-02-21,Delhi,Margherita Pizza,145
+2026-02-21,Delhi,Peppy Paneer Pizza,110
+2026-02-21,Delhi,Garlic Breadsticks,180
+2026-02-21,Delhi,Choco Lava Cake,100
+2026-02-22,Delhi,Margherita Pizza,135
+2026-02-22,Delhi,Peppy Paneer Pizza,100
+2026-02-22,Delhi,Garlic Breadsticks,170
+2026-02-22,Delhi,Choco Lava Cake,90
+2026-02-23,Delhi,Margherita Pizza,110
+2026-02-23,Delhi,Peppy Paneer Pizza,80
+2026-02-23,Delhi,Garlic Breadsticks,130
+2026-02-23,Delhi,Choco Lava Cake,65
+2026-02-24,Delhi,Margherita Pizza,115
+2026-02-24,Delhi,Peppy Paneer Pizza,85
+2026-02-24,Delhi,Garlic Breadsticks,140
+2026-02-24,Delhi,Choco Lava Cake,70
+2026-02-25,Delhi,Margherita Pizza,120
+2026-02-25,Delhi,Peppy Paneer Pizza,85
+2026-02-25,Delhi,Garlic Breadsticks,145
+2026-02-25,Delhi,Choco Lava Cake,75
+2026-02-26,Delhi,Margherita Pizza,115
+2026-02-26,Delhi,Peppy Paneer Pizza,80
+2026-02-26,Delhi,Garlic Breadsticks,25
+2026-02-26,Delhi,Choco Lava Cake,75
+2026-02-27,Delhi,Margherita Pizza,130
+2026-02-27,Delhi,Peppy Paneer Pizza,92
+2026-02-27,Delhi,Garlic Breadsticks,158
+2026-02-27,Delhi,Choco Lava Cake,82
+2026-02-28,Delhi,Margherita Pizza,148
+2026-02-28,Delhi,Peppy Paneer Pizza,115
+2026-02-28,Delhi,Garlic Breadsticks,185
+2026-02-28,Delhi,Choco Lava Cake,105
+2026-02-15,Bengaluru,Margherita Pizza,155
+2026-02-15,Bengaluru,Peppy Paneer Pizza,120
+2026-02-15,Bengaluru,Garlic Breadsticks,190
+2026-02-15,Bengaluru,Choco Lava Cake,110
+2026-02-16,Bengaluru,Margherita Pizza,122
+2026-02-16,Bengaluru,Peppy Paneer Pizza,86
+2026-02-16,Bengaluru,Garlic Breadsticks,148
+2026-02-16,Bengaluru,Choco Lava Cake,76
+2026-02-17,Bengaluru,Margherita Pizza,126
+2026-02-17,Bengaluru,Peppy Paneer Pizza,90
+2026-02-17,Bengaluru,Garlic Breadsticks,152
+2026-02-17,Bengaluru,Choco Lava Cake,80
+2026-02-18,Bengaluru,Margherita Pizza,128
+2026-02-18,Bengaluru,Peppy Paneer Pizza,92
+2026-02-18,Bengaluru,Garlic Breadsticks,155
+2026-02-18,Bengaluru,Choco Lava Cake,82
+2026-02-19,Bengaluru,Margherita Pizza,125
+2026-02-19,Bengaluru,Peppy Paneer Pizza,88
+2026-02-19,Bengaluru,Garlic Breadsticks,150
+2026-02-19,Bengaluru,Choco Lava Cake,78
+2026-02-20,Bengaluru,Margherita Pizza,142
+2026-02-20,Bengaluru,Peppy Paneer Pizza,105
+2026-02-20,Bengaluru,Garlic Breadsticks,175
+2026-02-20,Bengaluru,Choco Lava Cake,95
+2026-02-21,Bengaluru,Margherita Pizza,160
+2026-02-21,Bengaluru,Peppy Paneer Pizza,125
+2026-02-21,Bengaluru,Garlic Breadsticks,195
+2026-02-21,Bengaluru,Choco Lava Cake,115
+2026-02-22,Bengaluru,Margherita Pizza,150
+2026-02-22,Bengaluru,Peppy Paneer Pizza,115
+2026-02-22,Bengaluru,Garlic Breadsticks,185
+2026-02-22,Bengaluru,Choco Lava Cake,105
+2026-02-23,Bengaluru,Margherita Pizza,120
+2026-02-23,Bengaluru,Peppy Paneer Pizza,85
+2026-02-23,Bengaluru,Garlic Breadsticks,145
+2026-02-23,Bengaluru,Choco Lava Cake,75
+2026-02-24,Bengaluru,Margherita Pizza,110
+2026-02-24,Bengaluru,Peppy Paneer Pizza,12
+2026-02-24,Bengaluru,Garlic Breadsticks,130
+2026-02-24,Bengaluru,Choco Lava Cake,70
+2026-02-25,Bengaluru,Margherita Pizza,125
+2026-02-25,Bengaluru,Peppy Paneer Pizza,95
+2026-02-25,Bengaluru,Garlic Breadsticks,150
+2026-02-25,Bengaluru,Choco Lava Cake,80
+2026-02-26,Bengaluru,Margherita Pizza,130
+2026-02-26,Bengaluru,Peppy Paneer Pizza,100
+2026-02-26,Bengaluru,Garlic Breadsticks,160
+2026-02-26,Bengaluru,Choco Lava Cake,85
+2026-02-27,Bengaluru,Margherita Pizza,145
+2026-02-27,Bengaluru,Peppy Paneer Pizza,110
+2026-02-27,Bengaluru,Garlic Breadsticks,180
+2026-02-27,Bengaluru,Choco Lava Cake,100
+2026-02-28,Bengaluru,Margherita Pizza,162
+2026-02-28,Bengaluru,Peppy Paneer Pizza,128
+2026-02-28,Bengaluru,Garlic Breadsticks,200
+2026-02-28,Bengaluru,Choco Lava Cake,120

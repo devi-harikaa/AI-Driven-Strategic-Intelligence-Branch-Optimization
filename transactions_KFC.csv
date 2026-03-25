@@ -1,0 +1,89 @@
+Transaction_ID,Date,Branch,Item_Name,Category,Quantity,Price_INR,Discount_Percent,Total_Amount_INR
+T10001,2025-12-20,Hyderabad,Zinger Burger,Main,24,199,0,4776
+T10002,2025-12-20,Hyderabad,Chicken Wings,Main,24,249,0,5976
+T10003,2025-12-20,Hyderabad,French Fries,Main,23,99,0,2277
+T10004,2025-12-20,Hyderabad,Pepsi,Main,18,60,0,1080
+T10005,2025-12-21,Hyderabad,Zinger Burger,Main,17,199,0,3383
+T10006,2025-12-21,Hyderabad,Chicken Wings,Main,20,249,0,4980
+T10007,2025-12-21,Hyderabad,French Fries,Main,18,99,0,1782
+T10008,2025-12-21,Hyderabad,Pepsi,Main,15,60,0,900
+T10009,2025-12-22,Hyderabad,Zinger Burger,Main,24,199,0,4776
+T10010,2025-12-22,Hyderabad,Chicken Wings,Main,19,249,0,4731
+T10011,2025-12-22,Hyderabad,French Fries,Main,24,99,0,2376
+T10012,2025-12-22,Hyderabad,Pepsi,Main,21,60,0,1260
+T10013,2025-12-23,Hyderabad,Zinger Burger,Main,24,199,0,4776
+T10014,2025-12-23,Hyderabad,Chicken Wings,Main,23,249,0,5727
+T10015,2025-12-23,Hyderabad,French Fries,Main,23,99,0,2277
+T10016,2025-12-23,Hyderabad,Pepsi,Main,19,60,0,1140
+T10017,2025-12-24,Hyderabad,Zinger Burger,Main,20,199,0,3980
+T10018,2025-12-24,Hyderabad,Chicken Wings,Main,21,249,0,5229
+T10019,2025-12-24,Hyderabad,French Fries,Main,23,99,0,2277
+T10020,2025-12-24,Hyderabad,Pepsi,Main,16,60,0,960
+T10021,2025-12-25,Hyderabad,Zinger Burger,Main,20,199,0,3980
+T10022,2025-12-25,Hyderabad,Chicken Wings,Main,24,249,0,5976
+T10023,2025-12-25,Hyderabad,French Fries,Main,19,99,0,1881
+T10024,2025-12-25,Hyderabad,Pepsi,Main,21,60,0,1260
+T10025,2025-12-26,Hyderabad,Zinger Burger,Main,15,199,0,2985
+T10026,2025-12-26,Hyderabad,Chicken Wings,Main,15,249,0,3735
+T10027,2025-12-26,Hyderabad,French Fries,Main,24,99,0,2376
+T10028,2025-12-26,Hyderabad,Pepsi,Main,20,60,0,1200
+T10029,2025-12-27,Hyderabad,Zinger Burger,Main,24,199,0,4776
+T10030,2025-12-27,Hyderabad,Chicken Wings,Main,22,249,0,5478
+T10031,2025-12-27,Hyderabad,French Fries,Main,24,99,0,2376
+T10032,2025-12-27,Hyderabad,Pepsi,Main,16,60,0,960
+T10033,2025-12-28,Hyderabad,Zinger Burger,Main,23,199,0,4577
+T10034,2025-12-28,Hyderabad,Chicken Wings,Main,21,249,0,5229
+T10035,2025-12-28,Hyderabad,French Fries,Main,16,99,0,1584
+T10036,2025-12-28,Hyderabad,Pepsi,Main,16,60,0,960
+T10037,2025-12-29,Hyderabad,Zinger Burger,Main,30,199,0,5970
+T10038,2025-12-29,Hyderabad,Chicken Wings,Main,2,249,0,498
+T10039,2025-12-29,Hyderabad,French Fries,Main,24,99,0,2376
+T10040,2025-12-29,Hyderabad,Pepsi,Main,20,60,0,1200
+T10041,2025-12-30,Hyderabad,Zinger Burger,Main,24,199,0,4776
+T10042,2025-12-30,Hyderabad,Chicken Wings,Main,24,249,0,5976
+T10043,2025-12-30,Hyderabad,French Fries,Main,18,99,0,1782
+T10044,2025-12-30,Hyderabad,Pepsi,Main,22,60,0,1320
+T10045,2025-12-20,Visakhapatnam,Zinger Burger,Main,21,199,0,4179
+T10046,2025-12-20,Visakhapatnam,Chicken Wings,Main,16,249,0,3984
+T10047,2025-12-20,Visakhapatnam,French Fries,Main,23,99,0,2277
+T10048,2025-12-20,Visakhapatnam,Pepsi,Main,21,60,0,1260
+T10049,2025-12-21,Visakhapatnam,Zinger Burger,Main,23,199,0,4577
+T10050,2025-12-21,Visakhapatnam,Chicken Wings,Main,21,249,0,5229
+T10051,2025-12-21,Visakhapatnam,French Fries,Main,16,99,0,1584
+T10052,2025-12-21,Visakhapatnam,Pepsi,Main,24,60,0,1440
+T10053,2025-12-22,Visakhapatnam,Zinger Burger,Main,18,199,0,3582
+T10054,2025-12-22,Visakhapatnam,Chicken Wings,Main,23,249,0,5727
+T10055,2025-12-22,Visakhapatnam,French Fries,Main,24,99,0,2376
+T10056,2025-12-22,Visakhapatnam,Pepsi,Main,24,60,0,1440
+T10057,2025-12-23,Visakhapatnam,Zinger Burger,Main,16,199,0,3184
+T10058,2025-12-23,Visakhapatnam,Chicken Wings,Main,17,249,0,4233
+T10059,2025-12-23,Visakhapatnam,French Fries,Main,24,99,0,2376
+T10060,2025-12-23,Visakhapatnam,Pepsi,Main,15,60,0,900
+T10061,2025-12-24,Visakhapatnam,Zinger Burger,Main,18,199,0,3582
+T10062,2025-12-24,Visakhapatnam,Chicken Wings,Main,20,249,0,4980
+T10063,2025-12-24,Visakhapatnam,French Fries,Main,16,99,0,1584
+T10064,2025-12-24,Visakhapatnam,Pepsi,Main,19,60,0,1140
+T10065,2025-12-25,Visakhapatnam,Zinger Burger,Main,15,199,0,2985
+T10066,2025-12-25,Visakhapatnam,Chicken Wings,Main,23,249,0,5727
+T10067,2025-12-25,Visakhapatnam,French Fries,Main,22,99,0,2178
+T10068,2025-12-25,Visakhapatnam,Pepsi,Main,15,60,0,900
+T10069,2025-12-26,Visakhapatnam,Zinger Burger,Main,23,199,0,4577
+T10070,2025-12-26,Visakhapatnam,Chicken Wings,Main,21,249,0,5229
+T10071,2025-12-26,Visakhapatnam,French Fries,Main,18,99,0,1782
+T10072,2025-12-26,Visakhapatnam,Pepsi,Main,23,60,0,1380
+T10073,2025-12-27,Visakhapatnam,Zinger Burger,Main,21,199,0,4179
+T10074,2025-12-27,Visakhapatnam,Chicken Wings,Main,18,249,0,4482
+T10075,2025-12-27,Visakhapatnam,French Fries,Main,22,99,0,2178
+T10076,2025-12-27,Visakhapatnam,Pepsi,Main,21,60,0,1260
+T10077,2025-12-28,Visakhapatnam,Zinger Burger,Main,17,199,0,3383
+T10078,2025-12-28,Visakhapatnam,Chicken Wings,Main,19,249,0,4731
+T10079,2025-12-28,Visakhapatnam,French Fries,Main,15,99,0,1485
+T10080,2025-12-28,Visakhapatnam,Pepsi,Main,20,60,0,1200
+T10081,2025-12-29,Visakhapatnam,Zinger Burger,Main,19,199,0,3781
+T10082,2025-12-29,Visakhapatnam,Chicken Wings,Main,22,249,0,5478
+T10083,2025-12-29,Visakhapatnam,French Fries,Main,16,99,0,1584
+T10084,2025-12-29,Visakhapatnam,Pepsi,Main,20,60,0,1200
+T10085,2025-12-30,Visakhapatnam,Zinger Burger,Main,19,199,0,3781
+T10086,2025-12-30,Visakhapatnam,Chicken Wings,Main,22,249,0,5478
+T10087,2025-12-30,Visakhapatnam,French Fries,Main,15,99,0,1485
+T10088,2025-12-30,Visakhapatnam,Pepsi,Main,19,60,0,1140
