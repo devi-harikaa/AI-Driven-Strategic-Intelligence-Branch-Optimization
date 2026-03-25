@@ -193,7 +193,6 @@ Forecasts are visualized interactively via Plotly Express within the Streamlit d
 | Upgrade | Description |
 |---|---|
 | **Cloud Data Warehouse** | Migrate local CSV silos to Google BigQuery or Snowflake for scalable storage. |
-| **Enterprise Power BI RLS** | Implement Row-Level Security with Azure Active Directory so a single master dashboard dynamically filters data per authenticated tenant — eliminating manual report generation. |
 | **Real-time Streaming** | Replace batch CSV uploads with a live Kafka or Pub/Sub pipeline for continuous ingestion. |
 | **LLM Strategy Generation** | Replace rule-based strategy cards with GPT-4 / Claude-powered natural language action plans. |
 
