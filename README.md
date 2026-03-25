@@ -11,7 +11,7 @@
 
 ## 📌 Overview
 
-**Branch Pulse Command** is an enterprise-grade, multi-tenant SaaS platform built for large-scale restaurant chains. It acts as an autonomous strategic intelligence engine — merging financial transactional data with real-time customer sentiment to identify operational bottlenecks, forecast recovery timelines, and prescribe actionable management strategies.
+**Branch_Optimization** is an enterprise-grade, multi-tenant SaaS platform built for large-scale restaurant chains. It acts as an autonomous strategic intelligence engine — merging financial transactional data with real-time customer sentiment to identify operational bottlenecks, forecast recovery timelines, and prescribe actionable management strategies.
 
 > Instead of just showing *what* happened to sales, this AI engine explains *why* it happened — by correlating statistical financial anomalies with Aspect-Based Sentiment Analysis (ABSA) from live social media.
 
@@ -123,7 +123,7 @@ Restaurant branch optimization system/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/branch-pulse-command.git
+git clone https://github.com/YOUR_USERNAME/AI-Driven-Strategic-Intelligence-Branch-Optimization.git
 cd Restaurant Optimization
 ```
 
