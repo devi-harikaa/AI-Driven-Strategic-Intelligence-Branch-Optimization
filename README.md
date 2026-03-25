@@ -1,3 +1,18 @@
+<img width="1916" height="966" alt="Screenshot 2026-03-25 175709" src="https://github.com/user-attachments/assets/1b604e18-17a6-45c8-822f-56f2eebb87f1" />
+<img width="1908" height="887" alt="Screenshot 2026-03-25 175654" src="https://github.com/user-attachments/assets/5b15db31-046d-40aa-9173-ce4ea7ebbfb1" />
+<img width="1915" height="1165" alt="Screenshot 2026-03-25 175646" src="https://github.com/user-attachments/assets/7e55b68d-424b-40e1-8bc1-7f0549465ccc" />
+<img width="1919" height="913" alt="Screenshot 2026-03-25 175623" src="https://github.com/user-attachments/assets/8bfd1c28-d159-4a63-b20d-2f49708e7301" />
+<img width="1910" height="962" alt="Screenshot 2026-03-25 175538" src="https://github.com/user-attachments/assets/6aa1e309-5942-46e3-8f79-ad69455a1911" />
+<img width="1576" height="837" alt="Screenshot 2026-03-25 175441" src="https://github.com/user-attachments/assets/51552fd8-4d9e-481b-a2e7-5634adc309ed" />
+<img width="1909" height="962" alt="Screenshot 2026-03-25 175429" src="https://github.com/user-attachments/assets/d79c9ae8-5798-4dba-b4be-c01c3a7bfef1" />
+<img width="1918" height="929" alt="Screenshot 2026-03-25 175416" src="https://github.com/user-attachments/assets/97123934-84f2-459e-b493-7d862e1ab7bb" />
+<img width="1915" height="1013" alt="Screenshot 2026-03-25 175400" src="https://github.com/user-attachments/assets/ebbc8cc4-93b2-4031-be28-d0a6eb16d7c6" />
+<img width="1916" height="1171" alt="Screenshot 2026-03-25 175344" src="https://github.com/user-attachments/assets/15b7bcdc-4bd1-44a2-adcb-2ebc5fb2f13a" />
+<img width="1919" height="850" alt="Screenshot 2026-03-25 175332" src="https://github.com/user-attachments/assets/079d67d6-56b2-423b-932c-be0a25cfd581" />
+<img width="1919" height="936" alt="Screenshot 2026-03-25 175308" src="https://github.com/user-attachments/assets/7fb314e8-5cf2-4345-ad5f-654bc0e7a25b" />
+<img width="1872" height="1042" alt="Screenshot 2026-03-25 171218" src="https://github.com/user-attachments/assets/5b8d00fe-a742-43a5-be58-ba42a85c08ca" />
+<img width="1920" height="1128" alt="Screenshot 2026-03-25 165039" src="https://github.com/user-attachments/assets/35cd4df7-94fa-413d-9f6f-4713a841f971" />
+<img width="1918" height="958" alt="Screenshot 2026-03-25 182758" src="https://github.com/user-attachments/assets/ead08788-f526-4527-a0fd-63a648103c3f" />
 # 🏢 Restaurant Branch Optimization system: AI-Driven Strategic Intelligence
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
